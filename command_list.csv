@@ -1,0 +1,95 @@
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  clear
+    3  /opt/homebrew for Apple Silicon and /usr/local for macOS Intel
+    4  /usr/local for macOS Intel
+    5  clear
+    6  xcode-select --install
+    7  clear
+    8  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    9  $ brew install git\n\n
+   10  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   11  git
+   12  git -v
+   13  cd repo
+   14  cd
+   15  cd repo
+   16  clear
+   17  help cd
+   18  man cd
+   19  cd
+   20  ls
+   21  ls desktop
+   22  cd repo
+   23  cd репозиторій
+   24  ls
+   25  cd desktop
+   26  cd репозиторій
+   27  сдуфк
+   28  clear
+   29  git config --global user.name "TatiKo0"
+   30  git config --globar user.mail tatikolodnitskaya@icloud.com
+   31  config --global user.mail tatikolodnitskaya@icloud.com
+   32  clear
+   33  tatikolodnitskaya@MacBook-Air-Tati репозиторій % git config --global user.name "TatiKo0"\ntatikolodnitskaya@MacBook-Air-Tati репозиторій % git config --globar user.mail tatikolodnitskaya@iclo
+   34  clear
+   35  git config --global user.name "TatiKo0"
+   36  git config --global user.email tatikolodnitskaya@icloud.com
+   37  git clone https://github.com/TatiKo0/-HW_10.git
+   38  cd HW_10
+   39  clear
+   40  git clone https://github.com/TatiKo0/HW_10.git
+   41  cd HW_10
+   42  touch text_ignore.txt
+   43  nano text_ignore.txt
+   44  git status
+   45  git add
+   46  git add text_ignore.txt
+   47  git commit -m
+   48  git commit
+   49  ls
+   50  cd desktop
+   51  ls
+   52  cd репозиторій
+   53  git status
+   54  cd HW_10
+   55  git status
+   56  git commit text_ignore.txt
+   57  ls
+   58  cd desktop
+   59  cd репозиторій
+   60  cd HW_10
+   61  git status
+   62  git commit -m "Зміни"
+   63  git status
+   64  touch main_test.txt
+   65  git add main_test.txt
+   66  git commit -m "Zminu2"
+   67  git branch
+   68  git brach "develop"
+   69  git brach
+   70  git brach "develop"
+   71  git brach develop
+   72  git branch develop
+   73  checkout
+   74  branch
+   75  git branch
+   76  git checkout
+   77  touch develop_test.txt
+   78  git add
+   79  git add develop_test.txt
+   80  commit -m "Zminu3"
+   81  git commit -m "Zminu3"
+   82  nano develop_test.txt
+   83  git status
+   84  git add develop_test.txt
+   85  git commit -m "Zminu 6"
+   86  git chekout
+   87  git ckeckout
+   88  git ckeckout main
+   89  git checkout main
+   90  git merge main develop
+   91  git log
+   92  clear
+   93  ls
+   94  git merge main
+   95  git commit
